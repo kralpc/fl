@@ -15,7 +15,7 @@ if (!defined('PRICE_BOT_CONFIG')) {
 | توکن جدید ربات را اینجا قرار بده.
 |
 */
-define('BOT_TOKEN', '8058106992:AAHfOk_bJoGmno1gAhdrzb1r7tsmfRCPGqA');
+define('BOT_TOKEN', '805');
 
 /*
 |--------------------------------------------------------------------------
